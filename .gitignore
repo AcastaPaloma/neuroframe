@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.cache/
+test-results/
+playwright-report/
+.venv/
+__pycache__/
+*.pyc
+/public/data/
+
+
+/_vizdoom.ini
